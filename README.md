@@ -1,6 +1,8 @@
 # my-restaurant
 a repo for task 3
 
+![Website](./images/task3.png)
+
 # **_Welcome to Burger Makers_**
 ## _The best burger in town_ 
 ## **_Here is the menu for you ..._**
@@ -25,3 +27,4 @@ EMAIL: customerservice@burgermakers.jo
 [**Our Facebook Page**](https://web.facebook.com/burgermakers.jo)
 
 [**Our Instagram Page**](https://www.instagram.com/burgermakersjo)
+
