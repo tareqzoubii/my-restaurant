@@ -1,0 +1,98 @@
+body {
+    background-color: papayawhip;
+}
+nav {
+    background: #ff0202;
+    height: 25px;
+    
+}
+nav ul {
+    align-items: center;
+    margin: 0;
+}
+nav ul li {
+    display: inline;
+    line-height: 20px;
+    margin: 25px;
+    text-align: center;
+    
+
+}
+nav ul li a {
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 60px;
+
+
+}
+#p1 {
+    color: red;
+    font-style: italic;
+    font-size: xx-large;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+
+
+}
+#p2 {
+    color: red;
+    font-style: italic;
+    font-size: larger;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+#img1 {
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 450px;
+    display: block;
+    margin-bottom: 5px;
+
+}
+.para {
+    color: black;
+    padding: 0;
+    margin-bottom: 10px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+#span2 {
+    padding: 0;
+    margin: 25px;
+    float: right;
+    color: blue;
+    font-size: larger;
+}
+#span3 {
+    padding: 0;
+    margin: 25px;
+    float: right;
+    color: blue;
+    font-size: larger;
+}
+#span4 {
+    padding: 0;
+    margin: 25px;
+    float: right;
+    color: blue;
+    font-size: larger;
+}
+#goback {
+    background-color: #ff0202;
+    color: oldlace;
+    font-size: larger;
+    font-style: italic;
+    font-stretch: semi-expanded;
+    
+
+
+}
